@@ -1,0 +1,5 @@
+[vinyl-cache]
+source = "git"
+git = "https://code.vinyl-cache.org/vinyl-cache/vinyl-cache.git"
+prefix = "vinyl-cache-"
+include_regex = "vinyl-cache-.*"
